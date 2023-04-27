@@ -1,0 +1,4 @@
+id,compaction,limitValueType,category,limitThreshold,lowerThreshold,upperThreshold,checkInterval,additionalMessage,isActive,dataDefinitionId
+17,hour,exceeding,warning,1200,,,completed,comment,t,5012
+19,quarterhour,exceeding,warning,,,,current,,t,5013
+20,day,undershooting,information,5000,,,current,,,5014
